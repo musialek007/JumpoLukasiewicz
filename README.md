@@ -1,0 +1,2 @@
+# JumpoLukasiewicz
+Gra o Łukasiewiczu
